@@ -1,0 +1,10 @@
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font.xnb
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\square.xnb
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\M.xnb
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dot.xnb
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Portfolio\4003\BezierCurves\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
